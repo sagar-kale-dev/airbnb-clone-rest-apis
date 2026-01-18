@@ -15,6 +15,7 @@ This API handles users, hotels, bookings, inventories, and availability with sec
 - Payment gateway integration with webhook
 - Schedular to automate inventory add to system for 1 year
 - RESTful APIs with Swagger documentation
+- Common and global api response structure for success and error response
 
 ---
 
